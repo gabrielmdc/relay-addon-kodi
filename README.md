@@ -1,6 +1,6 @@
 Relay kodi addon
 ===================
-__This repository is obsolete in favor of this (script.service.relay)[https://github.com/nearlg/script.service.relay]__
+__This repository is obsolete in favor of this [script.service.relay](https://github.com/nearlg/script.service.relay)__
 
 This addon allow you to switch a relay status, (turn on or turn off)
 
